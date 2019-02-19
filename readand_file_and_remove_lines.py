@@ -7,8 +7,8 @@ with open("menu.php" , 'r') as infile:
 
 with open("menu.php" , 'w') as ifile:
 
-        x='499';
-        y='500';
+        x='2115';
+        y='2115';
 
         count=0;
         for line1 in i:
